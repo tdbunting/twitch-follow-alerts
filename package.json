@@ -1,0 +1,16 @@
+{
+  "name": "twitch-follows",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tyler Bunting",
+  "license": "MIT",
+  "dependencies": {
+    "node-notifier": "^4.5.0",
+    "request": "^2.70.0"
+  }
+}
